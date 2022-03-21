@@ -1,0 +1,3 @@
+rootProject.name = 'poc-kafka'
+include 'kafka-basics'
+
